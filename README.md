@@ -1,6 +1,3 @@
-# Salesforce-Inventory-Order-Management
-
-
 # Salesforce Inventory & Order Management System
 
 ## Project Overview
